@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/supreme-engine/static/css/main.85768c17.css",
+    "main.js": "/supreme-engine/static/js/main.cd3bb636.js",
+    "index.html": "/supreme-engine/index.html",
+    "main.85768c17.css.map": "/supreme-engine/static/css/main.85768c17.css.map",
+    "main.cd3bb636.js.map": "/supreme-engine/static/js/main.cd3bb636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.cd3bb636.js"
+  ]
+}
